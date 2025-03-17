@@ -2,7 +2,7 @@ build:
   version: "DEV Loans 1.0"
 
 loan:
-    message: "Welcome to Dolphin Loan service"
+    message: "Welcome to Dolphin Loan service in DEV"
     contactDetails:
       name: "John Smith - Developer"
       email: "jsmith@dolphinbank.com"
