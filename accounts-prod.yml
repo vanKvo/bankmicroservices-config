@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Dolphin Accounts service in PRODUCTION"
   contactDetails:
-    name: "Mary Jones - Support Team Lead"
+    name: "Jane Smith - Production Support Team Lead"
     email: "{cipher}81a2f6fd169f014dcb400d0ca9f165ba4afb4f53908d7d477811563f4ef5d7e2498d422953c242fc63a738b823056d30"
   onCallSupport:
     - (981) 2772-2727
