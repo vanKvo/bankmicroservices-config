@@ -1,8 +1,8 @@
-build:
+Vbuild:
   version: "DEV Cards 1.0"
 
 card:
-  message: "Welcome to Dolphin Cards service"
+  message: "Welcome to Dolphin Cards service in DEV"
   contactDetails:
     name: "John Smith - Developer"
     email: "jsmith@dolphinbank.com"
