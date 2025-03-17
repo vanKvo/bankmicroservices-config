@@ -2,7 +2,7 @@ build:
   version: "PROD Accounts 1.0"
 
 accounts:
-  message: "Welcome to Dolphin Accounts service in Fun Production"
+  message: "Welcome to Dolphin Accounts service in PROD"
   contactDetails:
     name: "Jane Smith - Production Support Team Lead"
     email: "{cipher}81a2f6fd169f014dcb400d0ca9f165ba4afb4f53908d7d477811563f4ef5d7e2498d422953c242fc63a738b823056d30"
