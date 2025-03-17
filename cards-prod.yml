@@ -2,7 +2,7 @@ build:
   version: "PROD Cards 1.0"
 
 accounts:
-  message: "Welcome to Dolphin Card service in Fun Production"
+  message: "Welcome to Dolphin Card service in PROD"
   contactDetails:
     name: "Sam Hane - PROD Team Lead"
     email: "{cipher}e85b189c51294de81b687628e78a2076d4c6455a0bfe7a5e321ce52af02b4f162f837af44e54fab09ca796e1e4e53cb2"
