@@ -2,7 +2,7 @@ build:
   version: "PROD Loans 1.0"
 
 loan:
-  message: "Welcome to Dolphin Loan service in PROD"
+  message: "Welcome to Dolphin Loan service in PROD HELLO WEBHOOK"
   contactDetails:
     name: "Sam Hane - PROD Team Lead"
     email: "shane@dolphinbank.com"
