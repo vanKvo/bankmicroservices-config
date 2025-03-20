@@ -2,7 +2,7 @@ build:
   version: "DEV Accounts 1.0"
 
 accounts:
-  message: "Welcome to Dolphin Accounts service"
+  message: "Welcome to Dolphin Accounts service in DEV"
   contactDetails:
     name: "John Smith - Developer"
     email: "jsmith@dolphinbank.com"
